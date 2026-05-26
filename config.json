@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersave",
+        "uuid": 4380585,
+        "checksum": "ojl1dk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
